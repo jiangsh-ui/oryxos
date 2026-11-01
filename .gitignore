@@ -30,3 +30,4 @@ target/
 website/.vitepress/dist/
 website/.vitepress/cache/
 website/node_modules/
+/.idea/
